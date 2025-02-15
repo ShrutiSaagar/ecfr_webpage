@@ -1,0 +1,195 @@
+[
+    {
+      "agency": "EPA",
+      "versionDate": "2023-01-01",
+      "wordFrequencies": {
+        "environmental": 45,
+        "pollution": 38,
+        "air": 25,
+        "water": 30,
+        "emission": 20,
+        "waste": 15,
+        "regulation": 12,
+        "standard": 18,
+        "toxic": 10,
+        "chemical": 14
+      }
+    },
+    {
+      "agency": "EPA",
+      "versionDate": "2023-04-01",
+      "wordFrequencies": {
+        "environmental": 48,
+        "pollution": 40,
+        "air": 28,
+        "water": 33,
+        "emission": 22,
+        "waste": 17,
+        "regulation": 14,
+        "standard": 20,
+        "toxic": 12,
+        "chemical": 16
+      }
+    },
+    {
+      "agency": "EPA",
+      "versionDate": "2023-07-01",
+      "wordFrequencies": {
+        "environmental": 52,
+        "pollution": 44,
+        "air": 32,
+        "water": 37,
+        "emission": 25,
+        "waste": 20,
+        "regulation": 17,
+        "standard": 23,
+        "toxic": 15,
+        "chemical": 19
+      }
+    },
+    {
+      "agency": "FCC",
+      "versionDate": "2023-01-01",
+      "wordFrequencies": {
+        "communication": 50,
+        "telecommunication": 40,
+        "radio": 35,
+        "television": 30,
+        "spectrum": 25,
+        "broadcast": 20,
+        "license": 18,
+        "internet": 15,
+        "network": 12,
+        "media": 10
+      }
+    },
+    {
+      "agency": "FCC",
+      "versionDate": "2023-04-01",
+      "wordFrequencies": {
+        "communication": 53,
+        "telecommunication": 43,
+        "radio": 38,
+        "television": 33,
+        "spectrum": 28,
+        "broadcast": 23,
+        "license": 21,
+        "internet": 18,
+        "network": 15,
+        "media": 13
+      }
+    },
+    {
+      "agency": "FCC",
+      "versionDate": "2023-07-01",
+      "wordFrequencies": {
+        "communication": 56,
+        "telecommunication": 46,
+        "radio": 41,
+        "television": 36,
+        "spectrum": 31,
+        "broadcast": 26,
+        "license": 24,
+        "internet": 21,
+        "network": 18,
+        "media": 16
+      }
+    },
+    {
+      "agency": "FDA",
+      "versionDate": "2023-01-01",
+      "wordFrequencies": {
+        "food": 60,
+        "drug": 55,
+        "medical": 45,
+        "device": 40,
+        "safety": 35,
+        "health": 30,
+        "product": 25,
+        "approval": 20,
+        "clinical": 18,
+        "consumer": 15
+      }
+    },
+    {
+      "agency": "FDA",
+      "versionDate": "2023-04-01",
+      "wordFrequencies": {
+        "food": 63,
+        "drug": 58,
+        "medical": 48,
+        "device": 43,
+        "safety": 38,
+        "health": 33,
+        "product": 28,
+        "approval": 23,
+        "clinical": 21,
+        "consumer": 18
+      }
+    },
+    {
+      "agency": "FDA",
+      "versionDate": "2023-07-01",
+      "wordFrequencies": {
+        "food": 66,
+        "drug": 61,
+        "medical": 51,
+        "device": 46,
+        "safety": 41,
+        "health": 36,
+        "product": 31,
+        "approval": 26,
+        "clinical": 24,
+        "consumer": 21
+      }
+    },
+    {
+      "agency": "FTC",
+      "versionDate": "2023-01-01",
+      "wordFrequencies": {
+        "commerce": 40,
+        "trade": 35,
+        "consumer": 30,
+        "unfair": 25,
+        "practice": 20,
+        "advertising": 18,
+        "marketing": 15,
+        "business": 12,
+        "competition": 10,
+        "federal": 8
+      }
+    },
+    {
+      "agency": "FTC",
+      "versionDate": "2023-04-01",
+      "wordFrequencies": {
+        "commerce": 43,
+        "trade": 38,
+        "consumer": 33,
+        "unfair": 28,
+        "practice": 23,
+        "advertising": 21,
+        "marketing": 18,
+        "business": 15,
+        "competition": 13,
+        "federal": 11
+      }
+    },
+    {
+      "agency": "FTC",
+      "versionDate": "2023-07-01",
+      "wordFrequencies": {
+        "commerce": 46,
+        "trade": 41,
+        "consumer": 36,
+        "unfair": 31,
+        "practice": 26,
+        "advertising": 24,
+        "marketing": 21,
+        "business": 18,
+        "competition": 16,
+        "federal": 14
+      }
+    }
+  ]
+  
